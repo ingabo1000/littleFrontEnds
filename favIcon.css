@@ -1,0 +1,16 @@
+.item-list{
+  margin: 100px auto;
+  border: 2px solid blue;
+  min-width: 200px;
+  max-width: 300px;
+}
+.favorite-icon{
+  font-size: 20px;
+  background: transparent;
+  cursor: pointer;
+  border: none;
+}
+.filled{
+  color: red;
+}
+
